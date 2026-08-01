@@ -1,0 +1,3 @@
+# Este proyecto no utiliza Python.
+# Las dependencias se gestionan mediante package.json y npm.
+
