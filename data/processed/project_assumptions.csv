@@ -1,0 +1,17 @@
+variable,value,unit,type,source
+capacity_kw,100,kWp,simulated,Prefeasibility assumption
+annual_generation,145536.17,kWh/year,estimated,PVGIS ERA5 2005-2023
+tariff,0.090,USD/kWh,official,ARCONEL 2026 Cotopaxi commercial with demand
+initial_investment,90000,USD,simulated,No vendor quote available
+annual_degradation,0.005,decimal,simulated,Sensitivity assumption
+om_rate,0.01,decimal,simulated,One percent of capex
+om_growth,0.02,decimal,simulated,Sensitivity assumption
+income_tax,0.25,decimal,official,SRI general corporate tax
+depreciation_years,10,years,simulated,Straight-line prefeasibility assumption
+residual_rate,0.05,decimal,simulated,Five percent of initial investment
+project_life,25,years,simulated,Technical evaluation horizon
+equity_weight,0.60,decimal,simulated,Proposed capital structure
+debt_weight,0.40,decimal,simulated,Proposed capital structure
+cost_equity,0.14,decimal,simulated,Required return assumption
+cost_debt,0.0789,decimal,official_reference,BCE maximum Productivo Corporativo July 2026
+wacc,0.10767,decimal,calculated,Finance model

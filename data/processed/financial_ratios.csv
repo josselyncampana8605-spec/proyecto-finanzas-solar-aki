@@ -1,0 +1,11 @@
+indicator,2023,2024,2025,unit,source
+current_ratio,1.27,1.31,1.35,times,SCVS expediente 384
+quick_ratio,0.61,0.66,0.75,times,SCVS expediente 384
+debt_to_assets,30.35,30.68,30.21,percent,SCVS and recalculation
+debt_to_equity,43.58,44.25,43.28,percent,SCVS and recalculation
+asset_turnover,0.968,0.945,0.965,times,Recalculated from SCVS
+fixed_asset_turnover,2.64,2.75,2.90,times,SCVS expediente 384
+net_margin,6.65,6.20,6.09,percent,Recalculated from SCVS
+roa,6.44,5.86,5.88,percent,Recalculated from SCVS
+roe,9.25,8.45,8.42,percent,Recalculated from SCVS
+interest_coverage,8.53,9.01,9.10,times,Recalculated due inconsistent SCVS field
